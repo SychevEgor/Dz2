@@ -1,0 +1,15 @@
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/prog3
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/prog3.deps.json
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/prog3.runtimeconfig.json
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/prog3.dll
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/ref/prog3.dll
+/home/Pesdalis/Lession2/prog3/bin/Debug/net6.0/prog3.pdb
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.csproj.AssemblyReference.cache
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.GeneratedMSBuildEditorConfig.editorconfig
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.AssemblyInfoInputs.cache
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.AssemblyInfo.cs
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.csproj.CoreCompileInputs.cache
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.dll
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/ref/prog3.dll
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.pdb
+/home/Pesdalis/Lession2/prog3/obj/Debug/net6.0/prog3.genruntimeconfig.cache
